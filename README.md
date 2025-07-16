@@ -1,18 +1,15 @@
 
 
 <div align="center">
-  <img src="logo.jpg" alt="Image" />
+  <img src="icon.jpg" alt="Image" />
 </div>
 
 <p align="center">
-    <p align="center">An Open Robustness Benchmark for Jailbreaking Language Models
+    <p align="center">A Multilingual Multimodal Benchmark from Real-World
+Civil Service Exams
     <br>
 </p>
 
-<p align="center">
-    <p align="center"><b>NeurIPS 2024 Datasets and Benchmarks Track</b>
-    <br>
-</p>
 
 <h4 align="center">
     <a href="https://arxiv.org/abs/2404.01318" target="_blank">Paper</a> |
