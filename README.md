@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="icon.jpg" alt="Image" />
+  <img src="icon.jpg" alt="Image" style="width: 70%;" />
 </div>
 
 <p align="center">
