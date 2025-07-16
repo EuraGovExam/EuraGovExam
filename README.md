@@ -14,8 +14,8 @@ Civil Service Exams</b>
 
 
 <h4 align="center">
-    <a href="" target="_blank">Paper (comming soon)</a> |
-    <a href="https://euragovexam.github.io/"target="_blank">Leaderboard</a> |
+    <a href="" target="_blank">Paper (comming soon!)</a> |
+    <a href="https://euragovexam.github.io/EuraGovExam/index.html"target="_blank">Leaderboard</a> |
     <a href="https://huggingface.co/datasets/EuraGovExam/EuraGovExam" target="_blank">Datasets</a> 
 </h4>
 
