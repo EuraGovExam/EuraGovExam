@@ -8,9 +8,9 @@
 </p>
 
 <h4 align="center">
-  <a href="https://arxiv.org/abs/XXXX.XXXXX" target="_blank">Paper</a> |
+  <a href="" target="_blank">Paper (Comming Soon!)</a> |
   <a href="https://euragovexam.github.io/EuraGovExam/index.html" target="_blank">Leaderboard</a> |
-  <a href="https://huggingface.co/datasets/EuraGovExam/EuraGovExam" target="_blank">Dataset</a>
+  <a href="https://huggingface.co/datasets/EuraGovExam/EuraGovExam" target="_blank">Dataset (Comming Soon!)</a>
 </h4>
 
 ---
