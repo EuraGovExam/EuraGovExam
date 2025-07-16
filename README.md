@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <img src="icon.jpg" alt="Image" style="width: 70%;" />
 </div>
