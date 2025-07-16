@@ -122,7 +122,7 @@ See the **public leaderboard** for up‑to‑date results. Key snapshot (July 2
 | Llama‑3‑Vision‑11B | 11 B   | 10.6 %     |
 | Gemma‑3‑32B‑it     | 32 B   | 19.4 %     |
 
-More details in [`main/data/leaderboard.json`](main/data/leaderboard.json).
+More details in [`/data/leaderboard.json`](/data/leaderboard.json).
 
 ## Citation
 
