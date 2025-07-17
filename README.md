@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icon.jpg" alt="EuraGovExam icon" style="width: 70%;" />
+  <img src="icon12.jpg" alt="EuraGovExam icon" style="width: 70%;" />
 </div>
 
 <p align="center">
