@@ -147,5 +147,5 @@ Pull requests are welcome! Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) firs
 
 ## Contact
 
-Questions? Create an issue or reach out to **kjsqp1010@semyung.ac.kr**.
+**Comming Soon!**
 
