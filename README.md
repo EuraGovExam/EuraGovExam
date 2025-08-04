@@ -10,7 +10,7 @@
 <h4 align="center">
   <a href="" target="_blank">Paper (Comming Soon!)</a> |
   <a href="https://euragovexam.github.io/EuraGovExam/index.html" target="_blank">Leaderboard</a> |
-  <a href="https://huggingface.co/datasets/EuraGovExam" target="_blank">Dataset (Comming Soon!)</a>
+  <a href="[https://huggingface.co/datasets/EuraGovExam](https://huggingface.co/datasets/EuraGovExam/EuraGovExam)" target="_blank">Dataset</a>
 </h4>
 
 ---
