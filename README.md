@@ -109,24 +109,12 @@ More details in [`/data/leaderboard.json`](/data/leaderboard.json).
 
 ## Citation
 
-If you use EuraGovExam, please cite:
-
-```bibtex
-@inproceedings{euragovexam2026,
-  title     = {EuraGovExam: A Multilingual Multimodal Benchmark from Real‑World Civil Service Exams},
-  author    = {First Author and Second Author and others},
-  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
-  year      = {2026}
-}
-```
+**Comming Soon!**
 
 ## License
 
 EuraGovExam is released under the **CC BY‑NC 4.0** license. See [`LICENSE`](LICENSE) for details.
 
-## Contributing
-
-Pull requests are welcome! Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) first and be mindful of regional examination copyright.
 
 ## Contact
 
