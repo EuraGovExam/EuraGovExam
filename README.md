@@ -40,14 +40,7 @@ EuraGovExam fills the gap between synthetic academic QA sets and the messy reali
 
 ## Dataset
 
-### Directory Structure
 
-```
-EuraGovExam/
-├── images/                # 8 k+ question images (.png)
-├── metadata.jsonl         # per‑item fields (id, domain, region, correct_answer, ocr_text, etc.)
-└── README.md
-```
 
 ### Domains
 
