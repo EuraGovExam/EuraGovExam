@@ -68,8 +68,7 @@ EuraGovExam fills the gap between synthetic academic QA sets and the messy reali
 
 ```python
 from datasets import load_dataset
-ds = load_dataset("EuraGovExam/EuraGovExam", split="test")  # 'train' & 'dev' coming soon
-print(ds[0])
+ds = load_dataset("EuraGovExam/EuraGovExam")
 ```
 
 Each row contains:
