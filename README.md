@@ -77,13 +77,33 @@ ds = load_dataset("EuraGovExam/EuraGovExam")
 
 See the **public leaderboard** for up‑to‑date results. Key snapshot (July 2025):
 
-| Model              | Params | Accuracy   |
-| ------------------ | ------ | ---------- |
-| GPT‑4.1            | —      | **54.7 %** |
-| GPT‑4o             | —      | 42.0 %     |
-| Claude‑Sonnet‑4    | —      | 46.8 %     |
-| Llama‑3‑Vision‑11B | 11 B   | 10.6 %     |
-| Gemma‑3‑32B‑it     | 32 B   | 19.4 %     |
+| Model                      | Params | Accuracy    |
+| -------------------------- | ------ | ----------- |
+| **Closed-source Models**   |        |             |
+| Gemini-2.5-pro             | —      | **86.99 %** |
+| o3                         | —      | 84.26 %     |
+| o4-mini                    | —      | 79.40 %     |
+| Gemini-2.5-flash           | —      | 68.33 %     |
+| Claude-Sonnet-4            | —      | 63.29 %     |
+| GPT-4.1-mini               | —      | 56.27 %     |
+| GPT-4.1                    | —      | 54.73 %     |
+| GPT-4o                     | —      | 42.04 %     |
+| Gemini-2.5-flash-lite      | —      | 25.94 %     |
+| **Open-source Models**     |        |             |
+| Qwen2-VL-72B-Instruct      | 72 B   | 44.65 %     |
+| InternVL2.5-38B-MPO        | 38 B   | 39.34 %     |
+| Ovis2-32B                  | 32 B   | 35.50 %     |
+| Ovis2-16B                  | 16 B   | 32.73 %     |
+| Qwen2.5-VL-7B-Instruct     | 7 B    | 32.30 %     |
+| Qwen2-VL-7B-Instruct       | 7 B    | 31.38 %     |
+| Ovis2-8B                   | 8 B    | 28.31 %     |
+| Qwen2-VL-2B-Instruct       | 2 B    | 25.54 %     |
+| Phi-3.5-vision-instruct    | 4 B    | 15.67 %     |
+| Llama-3.2-11B-Vision       | 11 B   | 12.75 %     |
+| llava-1.5-13b              | 13 B   | 18.99 %     |
+| llava-1.5-7b               | 7 B    | 14.49 %     |
+| llama3-llava-next-8b       | 8 B    | 14.28 %     |
+| LLaVA-NeXT-Video-7B-DPO-hf | 7 B    | 13.63 %     |
 
 More details in [`/data/leaderboard.json`](/data/leaderboard.json).
 
