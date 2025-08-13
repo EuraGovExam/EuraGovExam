@@ -15,17 +15,7 @@
 
 ---
 
-## Table of Contents
 
-* [Overview](#overview)
-* [Dataset](#dataset)
-* [Quick Start](#quick-start)
-* [Benchmark Tasks](#benchmark-tasks)
-* [Baselines & Leaderboard](#baselines--leaderboard)
-* [Citation](#citation)
-* [License](#license)
-* [Contributing](#contributing)
-* [Contact](#contact)
 
 ## Overview
 
