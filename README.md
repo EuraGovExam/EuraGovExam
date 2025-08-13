@@ -71,48 +71,7 @@ from datasets import load_dataset
 ds = load_dataset("EuraGovExam/EuraGovExam")
 ```
 
-Each row contains:
 
-| field     | type       | description                           |
-| --------- | ---------- | ------------------------------------- |
-| `image`   | PIL.Image  | Question sheet (RGB, \~600×400 px)    |
-| `choices` | List\[str] | Four multiple‑choice options          |
-| `answer`  | str        | Ground‑truth letter `"A"`–`"D"`       |
-| `domain`  | str        | Academic / bureaucratic topic         |
-| `region`  | str        | Source country                        |
-| `ocr`     | str        | (Optional) OCR string for convenience |
-
-## Quick Start
-
-Evaluate any VLM with a *single‑image, single‑choice* interface:
-
-```python
-import torch
-from PIL import Image
-from datasets import load_dataset
-from my_vlm import generate_answer  # your model
-
-ds = load_dataset("EuraGovExam/EuraGovExam", split="test")
-correct = 0
-for item in ds:
-    pred = generate_answer(Image.open(item["image"]), item["choices"])
-    if pred.upper() == item["answer"]:
-        correct += 1
-print(f"Accuracy: {correct/len(ds):.2%}")
-```
-
-## Benchmark Tasks
-
-EuraGovExam challenges models on:
-
-| Challenge                   | Example                                                         |
-| --------------------------- | --------------------------------------------------------------- |
-| **Layout parsing**          | Nested tables, multi‑column text                                |
-| **Cross‑lingual reasoning** | Korean question referencing English labels                      |
-| **Math & numeracy**         | Compute values from visual equations                            |
-| **Instruction following**   | Required format *“The answer is X.”* embedded only in the image |
-
-A detailed task taxonomy is in the [paper](https://arxiv.org/abs/XXXX.XXXXX).
 
 ## Baselines & Leaderboard
 
