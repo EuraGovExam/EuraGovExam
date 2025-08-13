@@ -44,13 +44,25 @@ EuraGovExam fills the gap between synthetic academic QA sets and the messy reali
 
 ### Domains
 
-| #  | Domain         | Share |
-| -- | -------------- | ----- |
-| 1  | Mathematics    | 11 %  |
-| 2  | Administration | 11 %  |
-| 3  | Biology        | 11 %  |
-| …  | …              | …     |
-| 17 | Earth Science  | 4 %   |
+| #  | Domain           | Share |
+| -- | ---------------- | ----- |
+| 1  | Mathematics      | 13.0% |
+| 2  | Administration   | 11.6% |
+| 3  | Biology          | 11.3% |
+| 4  | Law              | 10.2% |
+| 5  | Language         | 9.3%  |
+| 6  | Engineering      | 8.6%  |
+| 7  | Physics          | 6.8%  |
+| 8  | Economics        | 5.8%  |
+| 9  | Computer Science | 5.5%  |
+| 10 | History          | 3.2%  |
+| 11 | Medicine         | 3.0%  |
+| 12 | Politics         | 2.6%  |
+| 13 | Chemistry        | 2.6%  |
+| 14 | Geography        | 2.3%  |
+| 15 | Philosophy       | 1.6%  |
+| 16 | Psychology       | 1.5%  |
+| 17 | Earth Science    | 1.5%  |
 
 ### Download via 🤗 datasets
 
